@@ -4,4 +4,4 @@ Overview/Description: This program merges data structures, algorithms, classes, 
    
 Operating System Dependencies: Built and tested on Windows 10 / MS-DOS. 
 
-Python Dependencies: See comments in files for more information. 
+Python Module Dependencies: See comments in source code file for more information.
