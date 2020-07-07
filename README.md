@@ -1,6 +1,7 @@
-Overview: This program merges data structures, algorithms, read/write operations required to convert an 
-   excel spread sheet containing addresses to formatted mailing lables. It builds a GUI interface so 
-   non-programmers can use this. 
+Overview/Description: This program merges data structures, algorithms, classes, and read/write operations required to convert an 
+   excel spread sheet containing mailing addresses to formatted / printable mailing lables. It builds a GUI interface and can be 
+   converted to an .exe so non-programmers can use it. 
+   
+Operating System Dependencies: Built and tested on Windows 10 / MS-DOS. 
 
-Description: This program implements a handful of classes & object oriented programming to house data 
-   members and functions that are pertienent to each classes operations
+Python Dependencies: See comments in files for more information. 
